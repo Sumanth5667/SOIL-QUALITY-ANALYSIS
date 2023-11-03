@@ -1,0 +1,42 @@
+Title: Soil Analysis Dataset - Rajasthan, India
+BY: SUMANTH NIMMAGADDA
+
+Description:
+This dataset contains soil analysis data for various regions in the state of Rajasthan, India. The soil samples were collected and analyzed to study the composition, quality, and properties of the soil in different areas. The dataset includes various attributes related to soil type, nutrient levels, pH, and other soil characteristics.
+
+Dataset Information:
+
+Source: Department of Agriculture, Government of Rajasthan, India
+Collection Period: [Specify the date range or time period when the data was collected]
+Coverage: The dataset covers multiple districts and regions within Rajasthan.
+Data Format: CSV (Comma-Separated Values)
+Data Attributes:
+The dataset contains the following columns:
+
+Region: The geographical region within Rajasthan where the soil sample was collected.
+Latitude: The latitude coordinates of the sample location.
+Longitude: The longitude coordinates of the sample location.
+Soil Type: The type of soil (e.g., clay, silt, sandy, loamy).
+pH Level: The pH level of the soil sample.
+Organic Matter (%): The percentage of organic matter in the soil.
+Nitrogen (ppm): Nitrogen content in parts per million.
+Phosphorus (ppm): Phosphorus content in parts per million.
+Potassium (ppm): Potassium content in parts per million.
+Cation Exchange Capacity (CEC): The CEC value of the soil.
+Usage:
+
+This dataset can be used for agricultural research, soil quality assessment, and land use planning.
+Researchers and farmers can analyze soil data to make informed decisions about crop selection and soil management practices.
+It can be used for geospatial analysis and visualization of soil characteristics in Rajasthan.
+Educational purposes, such as data analysis and visualization projects, can benefit from this dataset.
+Licenses: Specify any licenses or usage restrictions, if applicable.
+
+Citation:
+[Provide the appropriate citation or attribution information if available]
+
+Acknowledgments:
+Acknowledge any organizations, agencies, or individuals who contributed to or funded the data collection.
+
+Keywords: Soil analysis, agriculture, Rajasthan, India, geospatial data, nutrient levels, pH levels, soil composition.
+
+This metadata provides a brief overview of the dataset, its source, content, and potential uses. You can tailor it to the specifics of the actual dataset you're working with, and you may want to include additional information if relevant.
